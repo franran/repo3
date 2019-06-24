@@ -6,6 +6,7 @@ public class Main {
     public void testHelloWrold() {
 		Strng ss = "";
 		ss = "HelloWorld!!!";
-        System.out.println(ss);
+		String ss = "冲突测试"
+        System.out.println(s);
     }
 }
