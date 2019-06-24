@@ -4,7 +4,8 @@ public class Main {
 
     @Test
     public void testHelloWrold() {
-		String s = "HelloWorld!!!";
-        System.out.println(s);
+		Strng ss = "";
+		ss = "HelloWorld!!!";
+        System.out.println(ss);
     }
 }
